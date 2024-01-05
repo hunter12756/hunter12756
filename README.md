@@ -40,12 +40,7 @@
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="[Post 1 URL]"><b>[Post 1 Title]</b></a><br/><i>[Post 1 Description]</i></li>
-  <li><a href="[Post 2 URL]"><b>[Post 2 Title]</b></a><br/><i>[Post 2 Description]</i></li>
-  <!-- Add more posts if needed -->
-</ul>
+
 
 <h3>Where to find me</h3>
 <p>
